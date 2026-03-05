@@ -1,5 +1,5 @@
 import { useState } from 'react';
-import { getRandomQuote } from '../utils/random-quote';
+import { getRandomQuote } from '@/pages/login/utils/random-quote';
 
 export function Quote() {
     const [quote] = useState(getRandomQuote());

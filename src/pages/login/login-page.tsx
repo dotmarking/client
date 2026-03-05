@@ -1,10 +1,10 @@
 import { useState } from 'react';
 import { Link } from 'react-router';
-import { Quote } from './ui/quote';
-import LoginForm from './login-form';
+import { Quote } from './components/ui/quote';
+import LoginForm from './components/login-form';
 
 function LoginPage() {
-    const [error, setError] = useState('');
+    const [error] = useState('');
 
     return (
         <div className="min-h-screen bg-background flex">

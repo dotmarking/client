@@ -1,0 +1,13 @@
+.indigo {
+    --primary: oklch(0.62 0.22 275);
+    --accent: oklch(0.67 0.2 270);
+    --destructive: oklch(0.55 0.2 25);
+    --ring: oklch(0.6 0.18 280);
+    --chart-1: oklch(0.65 0.25 265);
+    --chart-2: oklch(0.55 0.15 290);
+    --chart-3: oklch(0.48 0.12 260);
+    --chart-4: oklch(0.7 0.22 275);
+    --chart-5: oklch(0.63 0.2 285);
+    --sidebar-primary: oklch(0.62 0.22 275);
+    --sidebar-ring: oklch(0.6 0.18 280);
+}

@@ -1,0 +1,13 @@
+.purple {
+    --primary: oklch(0.68 0.25 300);
+    --accent: oklch(0.72 0.22 295);
+    --destructive: oklch(0.55 0.2 25);
+    --ring: oklch(0.65 0.2 305);
+    --chart-1: oklch(0.7 0.28 290);
+    --chart-2: oklch(0.6 0.18 310);
+    --chart-3: oklch(0.5 0.15 280);
+    --chart-4: oklch(0.75 0.25 300);
+    --chart-5: oklch(0.65 0.22 315);
+    --sidebar-primary: oklch(0.68 0.25 300);
+    --sidebar-ring: oklch(0.65 0.2 305);
+}
